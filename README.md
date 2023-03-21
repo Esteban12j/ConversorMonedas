@@ -13,9 +13,9 @@ La aplicación cuenta con dos combobox, uno para seleccionar la moneda de origen
 Cuando el usuario modifica uno de los textareas, se identifica cuál de ellos fue modificado y se obtiene su valor. Luego, se utiliza la API para obtener los datos de conversión y se realiza el cálculo correspondiente para mostrar el resultado en el otro textarea.
 
 ## Capturas de pantalla
-![Ventana Conversor Monedas](Imagenes/VentanaConversorMonedas)
-![Opciones de Monedas](Imagenes/DespliegueLista)
-![Formato de salida de la API](Imagenes/SalidaApi)
+* ![Ventana Conversor Monedas](https://github.com/Esteban12j/ConversorMonedas/blob/main/Imagenes/VentanaConversorMonedas.PNG)
+* ![Opciones de Monedas](https://github.com/Esteban12j/ConversorMonedas/blob/main/Imagenes/DespliegueLista.png)
+* ![Formato de salida de la API](https://github.com/Esteban12j/ConversorMonedas/blob/main/Imagenes/SalidaApi.PNG)
 
 
 ## Tecnologías utilizadas
@@ -24,7 +24,7 @@ Cuando el usuario modifica uno de los textareas, se identifica cuál de ellos fu
 * Swing (para la interfaz gráfica de usuario)
 ## Planificación del proyecto
 El proyecto se planificó utilizando la metodología ágil de desarrollo y se utilizó Trello como herramienta para el seguimiento del progreso de las tareas. A continuación, se muestran algunas capturas de pantalla del tablero de Trello utilizado:
-![Trello](Imagenes/Trello)
+![Trello](https://github.com/Esteban12j/ConversorMonedas/blob/main/Imagenes/Trello.PNG)
 
 
 ## Conclusiones
